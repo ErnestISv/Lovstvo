@@ -1,14 +1,14 @@
 Use Case Studis
 
-  Student:
-    - Prijava v sistem
-    - Prijava na izpit
-    - Odjava na izpit
-    - Potrdilo o vpisu
+  Student: <br />
+    - Prijava v sistem <br />
+    - Prijava na izpit <br />
+    - Odjava na izpit <br />
+    - Potrdilo o vpisu <br />
 
-Profesor:
-    - Vpis ocene
+Profesor: <br />
+    - Vpis ocene <br />
 
-Administrator:
-    - Odjava studenta iz izpita
-    - Prijava studenta na izpit
+Administrator: <br />
+    - Odjava studenta iz izpita <br />
+    - Prijava studenta na izpit <br />
