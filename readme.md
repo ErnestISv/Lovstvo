@@ -1,6 +1,6 @@
 # Testni diagram lovstva
 
-## [Vloge] (Lovstvo/main/readme.md)
+[Vloge] (Lovstvo/main/readme.md)
 **Gospodar:**
 - Organizira delovne akcije
 - Pripravlja poročila
