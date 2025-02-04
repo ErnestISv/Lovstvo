@@ -3,20 +3,26 @@
 ## Vloge:
 **Gospodar:**
 - Organizira delovne akcije
-- Pripravlja poročila <br />
+- Pripravlja poročila
 
 **Starešina:**
-*Dodeljuje naloge <br />
-**Lovski pripravnik:** <br />
-*Prijava na izpit
-*Odjava iz izpira <br />
+- Dodeljuje naloge
+
+**Lovski pripravnik:**
+- Prijava na izpit
+- Odjava iz izpira
+
 **Tajnik:**
-*Oragnizira sestanke
-*Pripravlja letna poročila <br />
+- Oragnizira sestanke
+- Pripravlja letna poročila
+
 **Referent za kinologijo:**
-*Organizira ocenjevanja <br />
+- Organizira ocenjevanja
+
 **Blagajnik:**
-* Izdaja račune
-* Izdaja opomine <br />
-**Skrbnik lovske koče** <br />
-**Lovec** <br />
+- Izdaja račune
+- Izdaja opomine
+
+**Skrbnik lovske koče**
+
+**Lovec**
