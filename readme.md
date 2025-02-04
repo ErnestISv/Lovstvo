@@ -1,14 +1,21 @@
-Use Case Studis
+# Testni diagram lovstva
 
-  Student: <br />
-    - Prijava v sistem <br />
-    - Prijava na izpit <br />
-    - Odjava na izpit <br />
-    - Potrdilo o vpisu <br />
-
-Profesor: <br />
-    - Vpis ocene <br />
-
-Administrator: <br />
-    - Odjava studenta iz izpita <br />
-    - Prijava studenta na izpit <br />
+## Vloge:
+**Skrbnik lovske koče**
+**Gospodar:**
+    - Organizira delovne akcije
+    - Pripravlja poročila
+**Starešina:**
+    - Dodeljuje naloge
+**Lovec**
+**Lovski pripravnik:**
+    - Prijava na izpit
+    - Odjava iz izpira
+**Tajnik:**
+    - Oragnizira sestanke
+    - Pripravlja letna poročila
+**Referent za kinologijo:**
+    - Organizira ocenjevanja
+**Blagajnik:**
+    - Izdaja račune
+    - Izdaja opomine
