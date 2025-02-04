@@ -1,6 +1,5 @@
 # Testni diagram lovstva
 
-## Akterji
 ### Vloge
 **Gospodar:**
 - Organizira delovne akcije
