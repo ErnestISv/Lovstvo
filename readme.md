@@ -28,6 +28,6 @@
 **Lovec**
 ##
 # Prikaz diagrama
-![Primer Uporabe Lovstvo](PrimerUporabeLovstvo.drawio.png)
+![Diagram primera uporabe Lovstvo](PrimerUporabeLovstvo.drawio.png)
 
 
