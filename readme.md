@@ -16,3 +16,4 @@
 - Prijava studenta na izpit
 ##
 # Prikaz diagrama
+[!Diagram primera uporabe Studis]()
