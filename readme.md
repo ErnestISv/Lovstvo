@@ -1,7 +1,7 @@
 # Testni diagram lovstva
 
 ## Vloge:
-**Skrbnik lovske koče**
+**Skrbnik lovske koče** </br>
 **Gospodar:**
     - Organizira delovne akcije
     - Pripravlja poročila
