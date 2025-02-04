@@ -2,9 +2,9 @@
 
 ## Vloge:
 **Gospodar:** <br />
-- Organizira delovne akcije <br />
-- Pripravlja poročila <br />
-**Starešina:** <br />
+- Organizira delovne akcije
+- Pripravlja poročila
+**Starešina:**
 *Dodeljuje naloge <br />
 **Lovski pripravnik:** <br />
 *Prijava na izpit <br />
