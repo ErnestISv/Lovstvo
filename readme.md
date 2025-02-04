@@ -4,6 +4,7 @@
 **Gospodar:**
 - Organizira delovne akcije
 - Pripravlja poročila <br />
+
 **Starešina:**
 *Dodeljuje naloge <br />
 **Lovski pripravnik:** <br />
