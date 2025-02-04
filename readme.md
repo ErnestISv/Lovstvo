@@ -1,4 +1,4 @@
-#A Use Case Studis
+# Use Case Studis
 
   **Student:** <br />
     - Prijava v sistem <br />
