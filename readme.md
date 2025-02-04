@@ -26,4 +26,6 @@
 **Skrbnik lovske koče**
 
 **Lovec**
-# 
+##
+# Prikaz diagrama
+
