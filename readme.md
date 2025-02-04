@@ -1,7 +1,7 @@
 # Use Case Studis
 
 ##  **Student:** <br />
-    - Prijava v sistem <br />
+    - Prijava v sistem
     - Prijava na izpit <br />
     - Odjava na izpit <br />
     - Potrdilo o vpisu <br />
