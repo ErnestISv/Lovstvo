@@ -1,6 +1,6 @@
 # Testni diagram lovstva
 
-## [Vloge](Lovstvo/TestniDiagramLovstva/Vloge)
+## [Vloge](/TestniDiagramLovstva/Vloge)
 **Gospodar:**
 - Organizira delovne akcije
 - Pripravlja poročila
