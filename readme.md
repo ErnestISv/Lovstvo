@@ -14,5 +14,6 @@
 **Administrator:**
 - Odjava studenta iz izpita
 - Prijava studenta na izpit
+##
 
 # Prikaz diagrama
