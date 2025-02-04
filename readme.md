@@ -1,21 +1,21 @@
 # Testni diagram lovstva
 
 ## Vloge:
-**Gospodar:** <br />
+**Gospodar:**
 - Organizira delovne akcije
-- Pripravlja poročila
+- Pripravlja poročila <br />
 **Starešina:**
 *Dodeljuje naloge <br />
 **Lovski pripravnik:** <br />
-*Prijava na izpit <br />
+*Prijava na izpit
 *Odjava iz izpira <br />
-**Tajnik:** <br />
-*Oragnizira sestanke <br />
+**Tajnik:**
+*Oragnizira sestanke
 *Pripravlja letna poročila <br />
-**Referent za kinologijo:** <br />
+**Referent za kinologijo:**
 *Organizira ocenjevanja <br />
-**Blagajnik:** <br />
-* Izdaja račune <br />
+**Blagajnik:**
+* Izdaja račune
 * Izdaja opomine <br />
 **Skrbnik lovske koče** <br />
 **Lovec** <br />
