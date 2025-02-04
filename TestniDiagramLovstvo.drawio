@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="2UNvsamAtXkvpeoabVTz">
-    <mxGraphModel dx="1934" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CcqfQQ6SJglIgXMdYJSf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CcqfQQ6SJglIgXMdYJSf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="75" width="585" height="830" as="geometry" />
         </mxCell>
         <mxCell id="YPTXHM-Q3TTYOSHRhetE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -23,7 +23,7 @@
           <mxGeometry x="120" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YPTXHM-Q3TTYOSHRhetE-8" value="Skrbnik lovske koče" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="30" width="30" height="60" as="geometry" />
+          <mxGeometry x="120" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YPTXHM-Q3TTYOSHRhetE-9" value="Tajnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="550" width="30" height="60" as="geometry" />
