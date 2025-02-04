@@ -2,11 +2,11 @@
 
 ## Akterji
 ### Vloge
-* **Gospodar:**
+**Gospodar:**
 - Organizira delovne akcije
 - Pripravlja poročila
 
-* **Starešina:**
+**Starešina:**
 - Dodeljuje naloge
 
 **Lovski pripravnik:**
