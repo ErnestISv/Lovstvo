@@ -2,13 +2,13 @@
 
 ##  **Student:** <br />
     - Prijava v sistem
-    - Prijava na izpit <br />
-    - Odjava na izpit <br />
-    - Potrdilo o vpisu <br />
+    - Prijava na izpit
+    - Odjava na izpit
+    - Potrdilo o vpisu
 
 ## **Profesor:** <br />
-    - Vpis ocene <br />
+    - Vpis ocene
 
 ## **Administrator:** <br />
-    - Odjava studenta iz izpita <br />
-    - Prijava studenta na izpit <br />
+    - Odjava studenta iz izpita
+    - Prijava studenta na izpit
