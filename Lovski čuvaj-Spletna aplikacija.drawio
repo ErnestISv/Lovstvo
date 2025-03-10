@@ -16,7 +16,7 @@
         <mxCell id="vzcYkedEycCVn6IqwDVd-4" value="Gospodar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="230" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vzcYkedEycCVn6IqwDVd-7" value="Izpolnitev obrazca" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vzcYkedEycCVn6IqwDVd-7" value="Izpolnitev poročila" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="100" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vzcYkedEycCVn6IqwDVd-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vzcYkedEycCVn6IqwDVd-2" target="vzcYkedEycCVn6IqwDVd-7" edge="1">
