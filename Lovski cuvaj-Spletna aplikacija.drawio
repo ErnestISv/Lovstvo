@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Page-1" id="iTsX3t-aBjWulHhGzkNG">
     <mxGraphModel dx="1354" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="0Yo_I8ake6-2doRQG3Em-4" value="Gospodar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Yo_I8ake6-2doRQG3Em-5" value="&lt;div&gt;&lt;b&gt;LČS.PU.IP -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;Izdelava poročila" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0Yo_I8ake6-2doRQG3Em-5" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;PU.M.LČ-S.IP -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Izdelava poročila&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="110" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0Yo_I8ake6-2doRQG3Em-2" target="0Yo_I8ake6-2doRQG3Em-5" edge="1">
@@ -25,8 +25,8 @@
             <mxPoint x="520" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Yo_I8ake6-2doRQG3Em-7" value="&lt;div&gt;&lt;b&gt;LČS.PU.PP -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;Pregled poročil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="380" width="100" height="50" as="geometry" />
+        <mxCell id="0Yo_I8ake6-2doRQG3Em-7" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;PU.M.LČ-S.PP -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pregled poročil&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="380" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0Yo_I8ake6-2doRQG3Em-4" target="0Yo_I8ake6-2doRQG3Em-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,8 +34,8 @@
             <mxPoint x="520" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Yo_I8ake6-2doRQG3Em-9" value="&lt;div&gt;&lt;b&gt;LČS.PU.PZP -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;Potrditev/Zavrnitev poročila" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="325" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="0Yo_I8ake6-2doRQG3Em-9" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;PU.M.LČ-S.PZP -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Potrditev/Zavrnitev poročila&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="520" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0Yo_I8ake6-2doRQG3Em-4" target="0Yo_I8ake6-2doRQG3Em-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,8 +46,8 @@
         <mxCell id="0Yo_I8ake6-2doRQG3Em-11" value="Spletna aplikacija" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="20" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Yo_I8ake6-2doRQG3Em-13" value="&lt;div&gt;&lt;b&gt;LČS.PU.POA -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;Prijava/Odjava v aplikacijo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="280" width="110" height="70" as="geometry" />
+        <mxCell id="0Yo_I8ake6-2doRQG3Em-13" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;PU.M.LČ-S.POA -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prijava/Odjava v aplikacijo&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="280" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0Yo_I8ake6-2doRQG3Em-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,8 +55,8 @@
             <mxPoint x="390" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Yo_I8ake6-2doRQG3Em-15" value="&lt;div&gt;&lt;b&gt;LČS.PU.PFVK -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;Pregled fotografij, video posnetkov in dodajanje komentarjev" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="180" width="145" height="80" as="geometry" />
+        <mxCell id="0Yo_I8ake6-2doRQG3Em-15" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;PU.M.LČ-S.PFVK -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pregled fotografij, video posnetkov in dodajanje komentarjev&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="180" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0Yo_I8ake6-2doRQG3Em-2" target="0Yo_I8ake6-2doRQG3Em-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -76,7 +76,7 @@
             <mxPoint x="530" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Yo_I8ake6-2doRQG3Em-20" value="&lt;div&gt;&lt;b&gt;LČS.PU.ZPUS -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;Pregled zvočnih posnetkov in urejanje zapisov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0Yo_I8ake6-2doRQG3Em-20" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;PU.M.LČ-S.ZPUS -&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pregled zvočnih posnetkov in urejanje zapisov&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="60" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0Yo_I8ake6-2doRQG3Em-4" target="0Yo_I8ake6-2doRQG3Em-13" edge="1">
