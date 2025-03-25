@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="iTsX3t-aBjWulHhGzkNG">
-    <mxGraphModel dx="552" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="130" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-5" value="&lt;div&gt;&lt;b&gt;LČS.PU.IP -&amp;nbsp;&lt;/b&gt;&lt;/div&gt;Izdelava poročila" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="110" width="110" height="60" as="geometry" />
+          <mxGeometry x="540" y="110" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0Yo_I8ake6-2doRQG3Em-2" target="0Yo_I8ake6-2doRQG3Em-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,7 +93,7 @@
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0Yo_I8ake6-2doRQG3Em-22" vertex="1" connectable="0">
           <mxGeometry x="0.1813" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-6" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Yo_I8ake6-2doRQG3Em-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0Yo_I8ake6-2doRQG3Em-15" target="0Yo_I8ake6-2doRQG3Em-5" edge="1">
@@ -118,7 +118,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZQrGVEm8qnPgckbvcUm--1" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0Yo_I8ake6-2doRQG3Em-3" target="0Yo_I8ake6-2doRQG3Em-4">
+        <mxCell id="ZQrGVEm8qnPgckbvcUm--1" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0Yo_I8ake6-2doRQG3Em-3" target="0Yo_I8ake6-2doRQG3Em-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
