@@ -2,4 +2,4 @@
 
 **Skrbništvo Lovskih Koč**
 #
-![Diagram primera uporabe Lovstvo](Skrbnistvo%20Lovskih%20Koc-Mobilna%20aplikacija.drawio.png)
+![Diagram primera uporabe Lovstvo](Skrbnistvo%20lovskih%20koc-Mobilna%20aplikacija.drawio.png)
