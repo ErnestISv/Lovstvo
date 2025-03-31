@@ -22,3 +22,11 @@
 
 **Skrbnik LČS:**
 - Ureja šifre kategorizacij
+#
+**Mobilna Aplikacija**
+#
+![Diagram primera uporabe Lovstvo](Lovski%20cuvaj-Mobilna%20aplikacija.drawio.png)
+#
+**Spletna Aplikacija**
+#
+![Diagram primera uporabe Lovstvo](Lovski%20cuvaj-Spletna%20aplikacija.drawio.png)
