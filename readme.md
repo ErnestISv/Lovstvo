@@ -1,3 +1,4 @@
 # Dokumentacija Primerov Uporabe
 
-**Lovstvo**
+**Skrbništvo Lovskih Koč**
+![Diagram primera uporabe Lovstvo](.drawio.png)
