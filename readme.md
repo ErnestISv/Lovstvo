@@ -1,4 +1,4 @@
 # Dokumentacija Primerov Uporabe
 
 **Skrbništvo Lovskih Koč**
-![Diagram primera uporabe Lovstvo](.drawio.png)
+![Diagram primera uporabe Lovstvo](Skrbnistvo Lovskih Koc-Mobilna aplikacija.drawio.png)
