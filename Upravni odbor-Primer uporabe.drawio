@@ -16,31 +16,31 @@
         <mxCell id="4BfJKIkU5QFFesI1mYQR-4" value="Tajnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BfJKIkU5QFFesI1mYQR-5" value="&lt;b&gt;PU.M.OU.OS -&lt;/b&gt; Organizacija sestankov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4BfJKIkU5QFFesI1mYQR-5" value="&lt;b&gt;PU.M.DOU.OS -&lt;/b&gt; Organizacija sestankov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BfJKIkU5QFFesI1mYQR-6" value="&lt;b&gt;PU.M.OU.ODA -&lt;/b&gt; Organizacija delovnih akcij" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4BfJKIkU5QFFesI1mYQR-6" value="&lt;b&gt;PU.M.DUO.ODA -&lt;/b&gt; Organizacija delovnih akcij" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="50" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BfJKIkU5QFFesI1mYQR-7" value="&lt;b&gt;PU.M.OU.PP -&lt;/b&gt; Priprava poročil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4BfJKIkU5QFFesI1mYQR-7" value="&lt;b&gt;PU.M.DOU.PP -&lt;/b&gt; Priprava poročil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="130" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4BfJKIkU5QFFesI1mYQR-8" value="Blagajnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="535" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BfJKIkU5QFFesI1mYQR-9" value="&lt;b&gt;PU.M.OU.IR -&lt;/b&gt; Izdaja računov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4BfJKIkU5QFFesI1mYQR-9" value="&lt;b&gt;PU.M.DOU.IR -&lt;/b&gt; Izdaja računov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="520" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BfJKIkU5QFFesI1mYQR-10" value="&lt;b&gt;PU.M.OU.IO -&lt;/b&gt; Izdaja opominov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4BfJKIkU5QFFesI1mYQR-10" value="&lt;b&gt;PU.M.DOU.IO -&lt;/b&gt; Izdaja opominov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="595" width="110" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="4BfJKIkU5QFFesI1mYQR-11" value="&lt;b&gt;PU.M.OU.DN -&lt;/b&gt; Dodelitev nalog" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4BfJKIkU5QFFesI1mYQR-11" value="&lt;b&gt;PU.M.DOU.DN -&lt;/b&gt; Dodelitev nalog" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="210" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BfJKIkU5QFFesI1mYQR-12" value="&lt;b&gt;PU.M.OU.PLP -&lt;/b&gt; Priprava letnih poročil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4BfJKIkU5QFFesI1mYQR-12" value="&lt;b&gt;PU.M.DOU.PLP -&lt;/b&gt; Priprava letnih poročil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="360" width="128" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4BfJKIkU5QFFesI1mYQR-13" value="&lt;b&gt;PU.M.OU.BS -&lt;/b&gt; Beleženje sklepov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4BfJKIkU5QFFesI1mYQR-13" value="&lt;b&gt;PU.M.DOU.BS -&lt;/b&gt; Beleženje sklepov" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BfJKIkU5QFFesI1mYQR-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FF3A3A;" parent="1" source="4BfJKIkU5QFFesI1mYQR-4" target="4BfJKIkU5QFFesI1mYQR-13" edge="1">
@@ -91,7 +91,7 @@
             <mxPoint x="500" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmSkDPPG1o4JCl24C0ET-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BfJKIkU5QFFesI1mYQR-3" target="4BfJKIkU5QFFesI1mYQR-11">
+        <mxCell id="EmSkDPPG1o4JCl24C0ET-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4BfJKIkU5QFFesI1mYQR-3" target="4BfJKIkU5QFFesI1mYQR-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="340" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
