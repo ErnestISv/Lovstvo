@@ -31,7 +31,7 @@
           <mxGeometry x="110" y="90" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O6TLyubZfLt-B_LnhMvm-13" value="Zunanji gost" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="350" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O6TLyubZfLt-B_LnhMvm-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O6TLyubZfLt-B_LnhMvm-7" target="O6TLyubZfLt-B_LnhMvm-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,12 +55,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="azMdjUdMIq2vOrPHd2gH-3" value="Tajnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="azMdjUdMIq2vOrPHd2gH-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azMdjUdMIq2vOrPHd2gH-3" target="O6TLyubZfLt-B_LnhMvm-2" edge="1">
+        <mxCell id="azMdjUdMIq2vOrPHd2gH-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BgJ6Cpqklu1U8yVnjekD-1" target="O6TLyubZfLt-B_LnhMvm-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="340" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BgJ6Cpqklu1U8yVnjekD-1" value="Skrbnik lovske koče" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BgJ6Cpqklu1U8yVnjekD-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="azMdjUdMIq2vOrPHd2gH-3" target="O6TLyubZfLt-B_LnhMvm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="330" as="sourcePoint" />
+            <mxPoint x="330" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
