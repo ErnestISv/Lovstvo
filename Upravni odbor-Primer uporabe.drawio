@@ -117,7 +117,7 @@
             <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p5O_UefCC0td8hOC0cp7-9" value="Predsedniki komisij" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="p5O_UefCC0td8hOC0cp7-9" value="Predsednik komisije" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="690" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p5O_UefCC0td8hOC0cp7-10" value="&lt;b&gt;PU.M.DOU-S.ILP-&lt;/b&gt;&amp;nbsp;Izdelava letnih poročil" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
