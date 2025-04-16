@@ -1,103 +1,67 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="ap7v0JPK-EjxY0nx-2uE">
     <mxGraphModel dx="2174" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="400" height="590" as="geometry" />
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="40" width="400" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-3" value="Spletna aplikacija" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="10" width="110" height="30" as="geometry" />
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-3" value="Spletna aplikacija" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="10" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-4" value="&lt;b&gt;PU.TM.OBV.IK -&lt;/b&gt;&amp;nbsp;Izbira kanala" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-6" value="&lt;b&gt;PU.TM.OBV-S.OZK -&amp;nbsp;&lt;/b&gt;Odpiranje/Zapiranje kanala" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-5" value="&lt;b&gt;PU.TM.OBV.INO -&lt;/b&gt;&amp;nbsp;Izbira načina obveščanja" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="50" width="120" height="80" as="geometry" />
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-10" value="Starešina" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-6" value="&lt;b&gt;PU.TM.OBV.OZK -&amp;nbsp;&lt;/b&gt;Odpiranje/Zapiranje kanala" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="120" height="80" as="geometry" />
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-11" value="Gospodar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-7" value="Lovec" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="110" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-7" target="wiiFy2Kkda_2zWT60Jj9-5">
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" parent="1" source="wiiFy2Kkda_2zWT60Jj9-10" target="wiiFy2Kkda_2zWT60Jj9-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="300" as="sourcePoint" />
-            <mxPoint x="360" y="250" as="targetPoint" />
+            <mxPoint x="-250" y="90" as="sourcePoint" />
+            <mxPoint x="-200" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-7" target="wiiFy2Kkda_2zWT60Jj9-4">
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-14" value="&lt;b&gt;PU.TM.OBV-S.KS&amp;nbsp;-&amp;nbsp;&lt;/b&gt;Kreiranje skupine" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wiiFy2Kkda_2zWT60Jj9-11" target="wiiFy2Kkda_2zWT60Jj9-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="300" as="sourcePoint" />
-            <mxPoint x="360" y="250" as="targetPoint" />
+            <mxPoint x="-250" y="340" as="sourcePoint" />
+            <mxPoint x="-200" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-10" value="Starešina" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="310" width="30" height="60" as="geometry" />
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-16" value="Tajnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="410" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-11" value="Gospodar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="310" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-10" target="wiiFy2Kkda_2zWT60Jj9-11">
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wiiFy2Kkda_2zWT60Jj9-16" target="wiiFy2Kkda_2zWT60Jj9-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="300" as="sourcePoint" />
-            <mxPoint x="360" y="250" as="targetPoint" />
+            <mxPoint x="-250" y="340" as="sourcePoint" />
+            <mxPoint x="-200" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-11" target="wiiFy2Kkda_2zWT60Jj9-6">
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-21" value="&lt;b&gt;PU.TM.OBV-S.PO - &lt;/b&gt;Pošiljanje obvestil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wiiFy2Kkda_2zWT60Jj9-11" target="wiiFy2Kkda_2zWT60Jj9-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="310" as="sourcePoint" />
-            <mxPoint x="360" y="260" as="targetPoint" />
+            <mxPoint x="-250" y="430" as="sourcePoint" />
+            <mxPoint x="-200" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-14" value="&lt;b&gt;PU.TM.OBV.KS&amp;nbsp;-&amp;nbsp;&lt;/b&gt;Kreiranje skupine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="370" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-11" target="wiiFy2Kkda_2zWT60Jj9-14">
+        <mxCell id="wiiFy2Kkda_2zWT60Jj9-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wiiFy2Kkda_2zWT60Jj9-16" target="wiiFy2Kkda_2zWT60Jj9-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="340" as="sourcePoint" />
-            <mxPoint x="360" y="290" as="targetPoint" />
+            <mxPoint x="-470" y="340" as="sourcePoint" />
+            <mxPoint x="-270" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-16" value="Tajnik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="410" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-16" target="wiiFy2Kkda_2zWT60Jj9-14">
+        <mxCell id="Tl9vRxBWI5JElpeE5n45-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-16" target="wiiFy2Kkda_2zWT60Jj9-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="340" as="sourcePoint" />
-            <mxPoint x="360" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-18" value="&lt;b&gt;PU.TM.OBV.IDO -&lt;/b&gt;&amp;nbsp;Izbira dneva obveščanja" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-11" target="wiiFy2Kkda_2zWT60Jj9-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="280" as="sourcePoint" />
-            <mxPoint x="360" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-7" target="wiiFy2Kkda_2zWT60Jj9-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="280" as="sourcePoint" />
-            <mxPoint x="360" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-21" value="&lt;b&gt;PU.TM.OBV.PO - &lt;/b&gt;Pošiljanje obvestil" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-11" target="wiiFy2Kkda_2zWT60Jj9-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="430" as="sourcePoint" />
-            <mxPoint x="360" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wiiFy2Kkda_2zWT60Jj9-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wiiFy2Kkda_2zWT60Jj9-16" target="wiiFy2Kkda_2zWT60Jj9-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="340" as="sourcePoint" />
-            <mxPoint x="290" y="530" as="targetPoint" />
+            <mxPoint x="-170" y="330" as="sourcePoint" />
+            <mxPoint x="-120" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
