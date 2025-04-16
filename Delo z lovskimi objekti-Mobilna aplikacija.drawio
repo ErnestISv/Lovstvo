@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="Page-1" id="ilmfvvzrHPD5JMtIKyWi">
+    <mxGraphModel dx="1347" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="360" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--2" value="Mobilna aplikacija" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--3" value="Gospodar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--4" value="Starešina" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="dQ4H8-xMsN9XKs-SsRr--4" target="dQ4H8-xMsN9XKs-SsRr--3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--6" value="&lt;b&gt;PU.M.DLO-M.PPLO -&lt;/b&gt; Podroben pregled lovskega objekta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQ4H8-xMsN9XKs-SsRr--3" target="dQ4H8-xMsN9XKs-SsRr--6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--8" value="Lovec" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--9" value="&lt;b&gt;PU.M.DLO-M.RP -&lt;/b&gt; Rezervacija/Preklic rezervacije preže" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--10" value="&lt;b&gt;PU.M.DLO-M.BPOP -&lt;/b&gt; Beleženje prihoda /odhoda iz preže" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQ4H8-xMsN9XKs-SsRr--8" target="dQ4H8-xMsN9XKs-SsRr--9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dQ4H8-xMsN9XKs-SsRr--12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dQ4H8-xMsN9XKs-SsRr--8" target="dQ4H8-xMsN9XKs-SsRr--10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="320" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
