@@ -1,4 +1,4 @@
-# Mobilna in spletna aplikacija Primera Uporabe - Lovski čuvaj
+# Mobilna in spletna aplikacija Primera Uporabe - Lovska čuvajska služba
 
 ## Vloge
 **Lovski čuvaj:**
