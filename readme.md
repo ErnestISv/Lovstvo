@@ -1,4 +1,4 @@
-# Dokumentacija Primerov Uporabe
+# Dokumentacija Primerov Uporabe - Delo z lovskimi pripravniki
 
 **Delo z lovskimi pripravniki**
 #
