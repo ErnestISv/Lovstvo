@@ -1,3 +1,6 @@
-# Dokumentacija Primerov Uporabe
+# Dokumentacija Primerov Uporabe - Obveščanje
 
-**Lovstvo**
+**Obveščanje**
+**Spletna Aplikacija**
+#
+![Diagram primera uporabe Lovstvo](Obvescanje-Spletna%20aplikacija.drawio.png)
