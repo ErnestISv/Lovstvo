@@ -1,3 +1,4 @@
 # Dokumentacija Primerov Uporabe
 
-**Lovstvo**
+**Delo z lovskimi objekti**
+#
