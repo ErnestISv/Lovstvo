@@ -2,4 +2,4 @@
 
 **Upravni Odbor**
 #
-![Diagram primera uporabe Lovstvo](Upravni%20odbor-Primer%20uporabe.drawio.png)
+![Diagram primera uporabe Lovstvo](Delovanje%20upravnega%20odbora-Spletna%20aplikacija.drawio.png)
