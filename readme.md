@@ -1,4 +1,4 @@
-# Dokumentacija Primerov Uporabe
+# Dokumentacija Primerov Uporabe - Delovanje upravnega odbora
 
 **Upravni Odbor**
 #
