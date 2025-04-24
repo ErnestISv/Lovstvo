@@ -1,3 +1,3 @@
 # Dokumentacija Primerov Uporabe
 
-**Lovstvo**
+**Vodenje podatkov o odstrelu**
